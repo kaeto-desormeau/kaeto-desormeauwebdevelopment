@@ -1,0 +1,21 @@
+body{
+    background-color: azure;
+    font-family: sans-serif;
+}
+
+img{
+    position:relative;
+    left:100px;
+    top:100px;
+    width: 200px;
+    height: 200px;
+    
+        
+}
+
+#tropic{
+        position:relative;
+    left:100px;
+    width:200px;
+    height:200px;
+}
